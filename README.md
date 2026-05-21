@@ -50,6 +50,7 @@ The objective of the project is to identify the major factors influencing custom
 ## Machine Learning Models Used
 
 | Model               | Accuracy |
+|-------------------------------|----------------------------------|
 | Logistic Regression | 61%      |
 | Decision Tree       | 55%      |
 | Random Forest       | 71%      |
