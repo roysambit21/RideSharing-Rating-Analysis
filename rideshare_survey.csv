@@ -1,0 +1,157 @@
+Your age,Gender,Frequency of using ride sharing,Waiting time for a ride,"Distance travelled
+
+", Driver's rating,Cleanliness of vehicle, Ease of booking ,Cost of Ride ,Time of day,"Ride-Sharing Service Rating:
+"
+18,Male,Occasionally,11-20 minutes,21-30 km,4,Often,Easy,Neutral,Afternoon,4
+22,Male,Rarely,Less than 5 minutes,21-30 km,4,Always,Easy,Neutral,Evening,4
+20,Female,Occasionally,5-10 minutes,7-15 km,5,Always,Very easy,Affordable,Morning,5
+20,Female,Occasionally,11-20 minutes,2-7 km,4,Sometimes,Very easy,Neutral,Evening,3
+20,Male,Rarely,5-10 minutes,15-21 km,3,Sometimes,Very easy,Neutral,Afternoon,4
+18,Male,Rarely,More than 30 minutes,7-15 km,3,Often,Neutral,Neutral,Evening,3
+21,Female,Occasionally,5-10 minutes,15-21 km,4,Always,Neutral,Affordable,Evening,5
+21,Female,Rarely,5-10 minutes,15-21 km,4,Often,Easy,Expensive,Evening,3
+21,Male,Weekly,Less than 5 minutes,15-21 km,4,Often,Easy,Affordable,Night,4
+19,Male,Rarely,5-10 minutes,2-7 km,3,Often,Very easy,Neutral,Afternoon,4
+21,Male,Occasionally,5-10 minutes,7-15 km,5,Always,Very easy,Neutral,Morning,4
+21,Male,Occasionally,11-20 minutes,7-15 km,3,Sometimes,Neutral,Expensive,Evening,3
+20,Female,Occasionally,5-10 minutes,7-15 km,3,Often,Easy,Neutral,Afternoon,3
+21,Female,Rarely,11-20 minutes,more than 30 km,4,Often,Easy,Affordable,Afternoon,4
+21,Male,Occasionally,5-10 minutes,15-21 km,4,Often,Easy,Neutral,Evening,4
+21,Female,Daily,11-20 minutes,7-15 km,3,Often,Neutral,Neutral,Afternoon,3
+21,Female,Occasionally,5-10 minutes,15-21 km,4,Often,Easy,Affordable,Evening,4
+27,Female,Occasionally,11-20 minutes,15-21 km,4,Always,Very easy,Expensive,Afternoon,4
+21,Female,Occasionally,5-10 minutes,7-15 km,4,Always,Easy,Affordable,Afternoon,4
+20,Female,Occasionally,11-20 minutes,7-15 km,4,Often,Very easy,Neutral,Afternoon,4
+20,Female,Occasionally,5-10 minutes,7-15 km,4,Always,Easy,Neutral,Afternoon,4
+21,Male,Rarely,5-10 minutes,7-15 km,2,Often,Easy,Affordable,Afternoon,2
+24,Male,Daily,Less than 5 minutes,7-15 km,4,Always,Very easy,Neutral,Evening,4
+21,Female,Occasionally,5-10 minutes,15-21 km,5,Always,Easy,Neutral,Evening,5
+18,Male,Rarely,5-10 minutes,more than 30 km,4,Sometimes,Easy,Neutral,Evening,3
+23,Male,Rarely,11-20 minutes,7-15 km,5,Often,Very easy,Very expensive,Afternoon,3
+21,Male,Occasionally,11-20 minutes,7-15 km,4,Often,Very easy,Affordable,Evening,4
+19,Male,Occasionally,5-10 minutes,7-15 km,5,Always,Easy,Affordable,Evening,5
+21,Female,Rarely,5-10 minutes,15-21 km,4,Often,Easy,Affordable,Afternoon,4
+21,Male,Monthly,5-10 minutes,more than 30 km,4,Often,Easy,Neutral,Evening,4
+21,Female,Daily,5-10 minutes,7-15 km,4,Always,Neutral,Neutral,Morning,4
+22,Female,Occasionally,5-10 minutes,7-15 km,3,Often,Easy,Neutral,Evening,4
+20,Female,Occasionally,5-10 minutes,7-15 km,4,Sometimes,Neutral,Affordable,Morning,4
+21,Male,Rarely,21-30 minutes,15-21 km,4,Sometimes,Neutral,Neutral,Evening,3
+20,Female,Occasionally,5-10 minutes,15-21 km,5,Always,Very easy,Neutral,Afternoon,4
+19,Male,Daily,Less than 5 minutes,2-7 km,3,Sometimes,Difficult,Very affordable,Morning,2
+20,Female,Rarely,Less than 5 minutes,15-21 km,3,Often,Neutral,Neutral,Evening,3
+18,Male,Weekly,11-20 minutes,7-15 km,4,Often,Easy,Affordable,Afternoon,4
+29,Male,Weekly,5-10 minutes,7-15 km,3,Often,Very easy,Neutral,Evening,4
+21,Male,Rarely,11-20 minutes,7-15 km,2,Never,Neutral,Very expensive,Night,1
+20,Female,Monthly,5-10 minutes,2-7 km,4,Often,Easy,Expensive,Morning,3
+27,Male,Rarely,5-10 minutes,7-15 km,4,Often,Very easy,Neutral,Evening,4
+21,Male,Rarely,5-10 minutes,15-21 km,4,Often,Very easy,Very expensive,Night,3
+28,Male,Occasionally,Less than 5 minutes,15-21 km,4,Often,Very easy,Neutral,Morning,5
+20,Male,Occasionally,5-10 minutes,15-21 km,4,Sometimes,Neutral,Neutral,Afternoon,4
+21,Male,Occasionally,11-20 minutes,7-15 km,3,Sometimes,Neutral,Expensive,Afternoon,3
+34,Male,Monthly,5-10 minutes,15-21 km,3,Often,Easy,Expensive,Morning,4
+20,Female,Rarely,5-10 minutes,2-7 km,4,Sometimes,Very easy,Affordable,Morning,4
+29,Male,Weekly,11-20 minutes,7-15 km,5,Often,Easy,Affordable,Evening,5
+30,Male,Weekly,Less than 5 minutes,21-30 km,4,Sometimes,Neutral,Neutral,Afternoon,3
+29,Male,Weekly,11-20 minutes,15-21 km,4,Always,Easy,Affordable,Afternoon,4
+20,Female,Occasionally,11-20 minutes,more than 30 km,4,Sometimes,Very easy,Affordable,Evening,4
+20,Male,Rarely,5-10 minutes,7-15 km,4,Often,Easy,Expensive,Afternoon,5
+21,Male,Occasionally,11-20 minutes,7-15 km,3,Often,Very easy,Expensive,Afternoon,3
+21,Female,Occasionally,11-20 minutes,7-15 km,5,Always,Easy,Affordable,Morning,4
+56,Male,Occasionally,5-10 minutes,7-15 km,5,Often,Neutral,Expensive,Afternoon,5
+21,Female,Occasionally,5-10 minutes,15-21 km,3,Always,Easy,Neutral,Morning,3
+20,Male,Occasionally,5-10 minutes,7-15 km,5,Often,Easy,Neutral,Morning,4
+21,Female,Rarely,5-10 minutes,15-21 km,4,Often,Easy,Neutral,Evening,4
+40,Male,Occasionally,11-20 minutes,2-7 km,1,Always,Very easy,Very affordable,Morning,1
+21,Female,Daily,5-10 minutes,15-21 km,5,Always,Very easy,Expensive,Morning,4
+18,Female,Occasionally,11-20 minutes,2-7 km,4,Always,Very easy,Neutral,Morning,4
+21,Female,Occasionally,5-10 minutes,more than 30 km,4,Always,Easy,Affordable,Morning,4
+20,Male,Weekly,Less than 5 minutes,2-7 km,4,Always,Very easy,Affordable,Afternoon,4
+21,Female,Occasionally,11-20 minutes,15-21 km,3,Often,Easy,Neutral,Afternoon,4
+25,Male,Occasionally,21-30 minutes,15-21 km,4,Always,Neutral,Neutral,Evening,5
+21,Male,Rarely,11-20 minutes,7-15 km,4,Sometimes,Neutral,Neutral,Morning,4
+21,Male,Rarely,Less than 5 minutes,2-7 km,3,Often,Easy,Neutral,Morning,3
+28,Male,Occasionally,21-30 minutes,2-7 km,4,Sometimes,Neutral,Expensive,Morning,3
+26,Male,Occasionally,5-10 minutes,7-15 km,4,Often,Neutral,Neutral,Afternoon,3
+21,Male,Occasionally,5-10 minutes,7-15 km,4,Often,Very easy,Affordable,Afternoon,4
+18,Male,Rarely,Less than 5 minutes,7-15 km,3,Sometimes,Neutral,Neutral,Night,4
+21,Female,Rarely,11-20 minutes,7-15 km,4,Sometimes,Easy,Expensive,Afternoon,3
+21,Male,Monthly,21-30 minutes,15-21 km,5,Often,Easy,Affordable,Evening,5
+21,Female,Rarely,11-20 minutes,15-21 km,4,Always,Easy,Neutral,Morning,4
+20,Female,Occasionally,21-30 minutes,7-15 km,3,Sometimes,Neutral,Expensive,Evening,3
+22,Female,Weekly,5-10 minutes,15-21 km,5,Always,Neutral,Neutral,Morning,3
+28,Male,Occasionally,11-20 minutes,15-21 km,4,Rarely,Neutral,Neutral,Evening,4
+40,Male,Monthly,5-10 minutes,21-30 km,5,Always,Very easy,Very affordable,Evening,5
+20,Female,Occasionally,11-20 minutes,15-21 km,3,Sometimes,Very easy,Affordable,Evening,4
+34,Male,Rarely,11-20 minutes,more than 30 km,4,Always,Easy,Affordable,Evening,4
+24,Male,Weekly,5-10 minutes,15-21 km,3,Sometimes,Neutral,Expensive,Afternoon,2
+20,Female,Occasionally,5-10 minutes,more than 30 km,4,Always,Neutral,Affordable,Afternoon,4
+51,Female,Rarely,5-10 minutes,21-30 km,4,Often,Difficult,Neutral,Evening,4
+25,Female,Occasionally,5-10 minutes,21-30 km,4,Sometimes,Very easy,Neutral,Afternoon,4
+20,Female,Occasionally,11-20 minutes,7-15 km,4,Often,Neutral,Expensive,Morning,4
+22,Male,Rarely,11-20 minutes,7-15 km,4,Often,Easy,Very expensive,Evening,3
+19,Male,Rarely,11-20 minutes,21-30 km,4,Often,Very easy,Neutral,Afternoon,4
+29,Male,Occasionally,5-10 minutes,2-7 km,4,Often,Very easy,Expensive,Evening,4
+19,Male,Rarely,Less than 5 minutes,more than 30 km,4,Always,Easy,Neutral,Afternoon,4
+34,Female,Monthly,5-10 minutes,more than 30 km,4,Always,Very easy,Affordable,Morning,5
+25,Female,Rarely,5-10 minutes,7-15 km,3,Often,Easy,Neutral,Evening,4
+21,Female,Rarely,5-10 minutes,7-15 km,3,Always,Very easy,Neutral,Afternoon,4
+21,Male,Monthly,11-20 minutes,7-15 km,4,Always,Very easy,Neutral,Evening,4
+20,Male,Occasionally,11-20 minutes,15-21 km,4,Often,Neutral,Affordable,Afternoon,4
+21,Male,Rarely,Less than 5 minutes,7-15 km,3,Sometimes,Neutral,Neutral,Evening,3
+20,Female,Occasionally,5-10 minutes,15-21 km,4,Sometimes,Neutral,Neutral,Afternoon,4
+21,Female,Occasionally,11-20 minutes,7-15 km,3,Often,Easy,Neutral,Afternoon,4
+21,Female,Rarely,11-20 minutes,15-21 km,5,Often,Easy,Neutral,Afternoon,4
+21,Female,Rarely,5-10 minutes,7-15 km,4,Always,Easy,Expensive,Morning,3
+21,Female,Occasionally,5-10 minutes,15-21 km,4,Always,Very easy,Neutral,Evening,4
+20,Female,Rarely,11-20 minutes,15-21 km,4,Often,Easy,Affordable,Morning,4
+21,Male,Rarely,21-30 minutes,15-21 km,3,Sometimes,Neutral,Neutral,Evening,3
+21,Male,Rarely,21-30 minutes,21-30 km,3,Often,Easy,Neutral,Evening,3
+20,Male,Rarely,5-10 minutes,2-7 km,4,Often,Very easy,Neutral,Evening,4
+21,Male,Rarely,21-30 minutes,15-21 km,5,Always,Easy,Neutral,Morning,3
+23,Male,Occasionally,5-10 minutes,7-15 km,4,Sometimes,Very easy,Affordable,Evening,4
+21,Female,Occasionally,11-20 minutes,7-15 km,5,Sometimes,Easy,Neutral,Afternoon,5
+21,Female,Occasionally,5-10 minutes,7-15 km,4,Sometimes,Very easy,Neutral,Afternoon,3
+20,Male,Rarely,11-20 minutes,7-15 km,4,Always,Neutral,Neutral,Morning,3
+21,Male,Occasionally,5-10 minutes,2-7 km,5,Often,Neutral,Affordable,Evening,3
+20,Female,Occasionally,5-10 minutes,7-15 km,3,Always,Neutral,Neutral,Evening,3
+22,Male,Rarely,5-10 minutes,15-21 km,3,Sometimes,Neutral,Neutral,Afternoon,3
+18,Female,Rarely,Less than 5 minutes,7-15 km,3,Rarely,Easy,Affordable,Morning,3
+21,Female,Rarely,11-20 minutes,7-15 km,4,Always,Easy,Neutral,Evening,4
+22,Male,Occasionally,11-20 minutes,15-21 km,3,Sometimes,Easy,Neutral,Night,3
+21,Male,Monthly,5-10 minutes,2-7 km,4,Often,Neutral,Neutral,Evening,4
+22,Female,Rarely,Less than 5 minutes,2-7 km,1,Always,Very easy,Very affordable,Afternoon,5
+21,Male,Occasionally,11-20 minutes,21-30 km,5,Often,Easy,Expensive,Afternoon,3
+20,Female,Occasionally,5-10 minutes,7-15 km,4,Always,Very easy,Affordable,Afternoon,5
+24,Female,Rarely,21-30 minutes,7-15 km,4,Often,Easy,Affordable,Afternoon,3
+20,Male,Occasionally,5-10 minutes,2-7 km,4,Sometimes,Very easy,Affordable,Morning,5
+20,Female,Occasionally,5-10 minutes,21-30 km,3,Always,Easy,Neutral,Morning,2
+21,Male,Rarely,11-20 minutes,15-21 km,2,Always,Neutral,Neutral,Afternoon,4
+23,Female,Rarely,5-10 minutes,2-7 km,3,Often,Easy,Affordable,Afternoon,4
+21,Female,Weekly,11-20 minutes,more than 30 km,3,Often,Neutral,Neutral,Morning,3
+22,Male,Occasionally,11-20 minutes,7-15 km,3,Sometimes,Easy,Neutral,Evening,3
+24,Male,Occasionally,11-20 minutes,21-30 km,4,Always,Neutral,Neutral,Night,4
+21,Male,Rarely,11-20 minutes,2-7 km,4,Often,Easy,Affordable,Morning,4
+20,Male,Monthly,11-20 minutes,7-15 km,4,Often,Easy,Expensive,Morning,3
+19,Male,Occasionally,5-10 minutes,7-15 km,5,Often,Easy,Affordable,Morning,4
+21,Female,Occasionally,5-10 minutes,15-21 km,3,Always,Easy,Expensive,Afternoon,3
+28,Male,Occasionally,5-10 minutes,7-15 km,4,Often,Neutral,Neutral,Evening,4
+20,Female,Rarely,5-10 minutes,7-15 km,3,Often,Easy,Expensive,Afternoon,3
+21,Female,Occasionally,11-20 minutes,15-21 km,4,Always,Easy,Neutral,Afternoon,4
+21,Female,Occasionally,5-10 minutes,15-21 km,4,Always,Easy,Affordable,Evening,4
+21,Female,Occasionally,5-10 minutes,7-15 km,4,Always,Very easy,Neutral,Afternoon,3
+21,Male,Rarely,11-20 minutes,7-15 km,4,Often,Very easy,Affordable,Afternoon,4
+31,Female,Rarely,5-10 minutes,7-15 km,5,Always,Very easy,Affordable,Evening,5
+21,Female,Monthly,11-20 minutes,7-15 km,4,Often,Easy,Neutral,Afternoon,4
+21,Male,Monthly,5-10 minutes,15-21 km,4,Often,Easy,Neutral,Afternoon,4
+18,Male,Occasionally,5-10 minutes,7-15 km,4,Often,Easy,Affordable,Evening,4
+20,Female,Rarely,Less than 5 minutes,15-21 km,3,Sometimes,Easy,Neutral,Afternoon,3
+21,Female,Occasionally,11-20 minutes,7-15 km,4,Often,Very easy,Neutral,Afternoon,4
+21,Male,Occasionally,11-20 minutes,2-7 km,4,Sometimes,Easy,Neutral,Afternoon,4
+24,Female,Occasionally,5-10 minutes,7-15 km,4,Always,Easy,Affordable,Afternoon,4
+21,Female,Rarely,5-10 minutes,2-7 km,4,Often,Neutral,Neutral,Evening,3
+32,Female,Occasionally,11-20 minutes,15-21 km,4,Always,Very easy,Neutral,Evening,4
+30,Female,Occasionally,5-10 minutes,21-30 km,4,Sometimes,Easy,Affordable,Afternoon,5
+28,Male,Occasionally,11-20 minutes,21-30 km,4,Always,Easy,Affordable,Afternoon,4
+60,Male,Rarely,21-30 minutes,7-15 km,4,Rarely,Easy,Expensive,Evening,4
+21,Female,Monthly,5-10 minutes,15-21 km,5,Always,Very easy,Affordable,Afternoon,4
+30,Female,Occasionally,5-10 minutes,7-15 km,4,Sometimes,Neutral,Affordable,Afternoon,4
